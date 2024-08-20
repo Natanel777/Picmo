@@ -9,7 +9,7 @@
 ## First Interfaces
 
 ### Screenshots
-| ![Screenshot 1](/screenshots/file.jpg)   | ![Screenshot 2](/screenshots/file.jpg)   |
+| ![Screenshot 1](/screenshots/image1.jpg) | ![Screenshot 2](/screenshots/image2.jpg) |
 |------------------------------------------|------------------------------------------|
 | ![Screenshot 3](/screenshots/image3.jpg) | ![Screenshot 4](/screenshots/image4.jpg) |
 
